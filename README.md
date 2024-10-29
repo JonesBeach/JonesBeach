@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍🎓 I love mentoring experienced developers at [From Scratch Code](https://fromscratchcode.com/), helping them master intermediate-to-advanced Rust and Python concepts. Let’s work together to build robust libraries, systems, and real-world tools in a fun and supportive environment!
+- 👨‍🎓 I love mentoring experienced developers at [From Scratch Code](https://fromscratchcode.com/), helping them master intermediate-to-advanced Rust and Python concepts. Let’s work together to build robust libraries, systems, and real-world tools in a supportive and sometimes silly environment!
   - Some of my technical achievements and jokes make it on [the blog](https://blog.fromscratchcode.com/).
 - 🔭 I’m currently working on [Memphis](https://github.com/JonesBeach/memphis), a Python interpreter written in Rust. It can run some code but probably not your code.
 - 🌐 I have a course about building an Axum-inspired [HTTP Server in Rust](https://fromscratchcode.com/courses/).
