@@ -11,6 +11,8 @@ A few places to get your feet wet:
 
 ✍️ [**From Scratch Press**](https://fromscratchpress.com/): writing on neurodivergence, meaningful work, and figuring out how to build a life that fits. [Why I left my 9-5 for good](https://fromscratchpress.com/why-i-left-my-9-5-for-good/) is a great place to start.
 
-💻 I use **Neovim**, **WezTerm**, **tmux**, and **bash** spiced up with **Starship**. Explore my [etc repo](https://github.com/JonesBeach/etc) for configs.
+💻 [**etc**](https://github.com/JonesBeach/etc): I build in **Neovim**, **tmux**, **WezTerm**, and **bash** spiced up with **Starship**.
+
+***
 
 ❤️ Want to support this chaos? Become a [Ridiculous Benefactor](https://github.com/sponsors/JonesBeach).
