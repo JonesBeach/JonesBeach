@@ -1,7 +1,16 @@
-### Hello and Welcome!
+### Welcome to `From Scratch`!
 
-- 👨‍🎓 **Mentoring**: I run [**From Scratch Code**](https://fromscratchcode.com/), where I help developers deepen their expertise in Rust and Python. My aim is to foster your creativity and confidence in a supportive and sometimes silly environment.
-- 📬 **Free Email Course**: Want a software career that actually feels *meaningful*? I wrote a 5-day email course on honing your craft, aligning your work with your values, and building for yourself. Or just not hating your job! [**Get it here**](https://fromscratchcode.com/courses/meaningful-career/).
-- 🦉 **Current Project**: I'm building [**Memphis**](https://github.com/JonesBeach/memphis), a Python interpreter written in Rust. It can run some code but probably not your code (*yet*).
-- ✍️ **Writing**: I share essays on neurodivergence and self-employment at [**From Scratch Press**](https://fromscratchpress.com/).
-- 💻 **Tooling**: I use **Neovim**, **WezTerm**, **tmux**, and **bash** spiced up with **Starship**. Explore my [etc repo](https://github.com/JonesBeach/etc) for configs.
+A few places to get your feet wet:
+
+👨‍🎓  [**From Scratch Code**](https://fromscratchcode.com/): an ecosystem for personalized Rust and Python mentorship. I offer 1:1 support and a growing set of courses:
+- [Build a Software Career with Meaning](https://fromscratchcode.com/courses/meaningful-career/) - free!
+- [Rust Crash Course](https://fromscratchcode.com/rust-crash-course/)
+- [HTTP Server in Rust](https://fromscratchcode.com/courses/rust-http-server/)
+
+🦉 [**Memphis**](https://fromscratchcode.com/memphis/): a ridiculous Python interpreter written—from scratch—in Rust. It can run some code, but probably not your code. Supports both a treewalk interpreter and a bytecode VM.
+
+✍️ [**From Scratch Press**](https://fromscratchpress.com/): writing on neurodivergence, meaningful work, and figuring out how to build a life that fits. [Why I left my 9-5 for good](https://fromscratchpress.com/why-i-left-my-9-5-for-good/) is a great place to start.
+
+💻 I use **Neovim**, **WezTerm**, **tmux**, and **bash** spiced up with **Starship**. Explore my [etc repo](https://github.com/JonesBeach/etc) for configs.
+
+❤️ Want to support this chaos? Become a [Ridiculous Benefactor](https://github.com/sponsors/JonesBeach).
