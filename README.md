@@ -1,17 +1,10 @@
-### Welcome to `From Scratch`!
+[**From Scratch Code**](https://fromscratchcode.com/): my independent practice for Rust and Python mentorship. I work 1:1 with early-career developers who want to go deeper and write about the tools and systems I build along the way.
 
-A few places to get your feet wet:
+[**Memphis**](https://fromscratchcode.com/memphis/): a ridiculous Python interpreter written—from scratch—in Rust. It can run some code, but probably not your code.
 
-👨‍🎓  [**From Scratch Code**](https://fromscratchcode.com/): an ecosystem for personalized Rust and Python mentorship. I offer 1:1 support and a growing set of courses:
-- [Build a Software Career with Meaning](https://fromscratchcode.com/courses/meaningful-career/) - free!
-- [Rust Crash Course](https://fromscratchcode.com/rust-crash-course/)
-- [HTTP Server in Rust](https://fromscratchcode.com/courses/rust-http-server/)
+[**From Scratch Press**](https://fromscratchpress.com/): writing on neurodivergence, meaningful work, and figuring out how to build a life that fits. [Why I left my 9-5 for good](https://fromscratchpress.com/why-i-left-my-9-5-for-good/) is a good place to start.
 
-🦉 [**Memphis**](https://fromscratchcode.com/memphis/): a ridiculous Python interpreter written—from scratch—in Rust. It can run some code, but probably not your code. Supports both a treewalk interpreter and a bytecode VM.
-
-✍️ [**From Scratch Press**](https://fromscratchpress.com/): writing on neurodivergence, meaningful work, and figuring out how to build a life that fits. [Why I left my 9-5 for good](https://fromscratchpress.com/why-i-left-my-9-5-for-good/) is a great place to start.
-
-💻 [**etc**](https://github.com/JonesBeach/etc): I build in **Neovim**, **tmux**, **WezTerm**, and **bash** spiced up with **Starship**.
+[**etc**](https://github.com/JonesBeach/etc): I build in Neovim, tmux, WezTerm, and bash spiced up with Starship.
 
 ***
 
